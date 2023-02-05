@@ -1,0 +1,28 @@
+{
+  "name": "pferdewelt0502",
+  "version": "1.0.0",
+  "description": "Das ist die Pferede Welt Webapp, basiert auf Wikipedia API\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[F\u001b[D\u001b[B",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arteque/pferdewelt0502.git"
+  },
+  "keywords": [
+    "Pferde",
+    "Pferderassen",
+    "Pferdearten",
+    "Pferde",
+    "Tier",
+    "Wikipedia",
+    "Api"
+  ],
+  "author": "Ahmed Lemssiah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arteque/pferdewelt0502/issues"
+  },
+  "homepage": "https://github.com/Arteque/pferdewelt0502#readme"
+}
